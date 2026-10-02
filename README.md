@@ -1,5 +1,13 @@
 # fifo-cogs-engine-demo
 
+> **Demo reconstruction of a real production system.** The original
+> reconstructs cost-of-goods for a live inventory operation and was built
+> during my IT internship at **GSI Group** (Semarang, Indonesia). That
+> system's code, item catalogue and financial data are the company's and
+> are **not** published here - this repository is a clean-room rebuild of
+> the algorithm and its failure handling, on synthetic data only.
+
+
 A standalone First-In-First-Out (FIFO) cost-of-goods-sold engine, written
 as a clean-room demo of the pattern — no real company data, no real item
 codes, nothing copied from any employer/client codebase.
